@@ -1,0 +1,13 @@
+* {
+
+box-sizing: border-box;
+padding: 3px;
+}
+#title{
+	background-color: BLUE;
+	font-family: ariel;
+	
+	font-size: 65px;
+	color: white;
+	padding: 20px;
+}
